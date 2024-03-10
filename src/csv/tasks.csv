@@ -1,0 +1,14 @@
+title,parent_task,max_xp
+C1_SimpleBashUtils,,350
+C2_s21_string,C1_SimpleBashUtils,600
+C3_s21_decimal,C1_SimpleBashUtils,800
+C4_s21_matrix,C3_s21_decimal,250
+C5_SmartCalc_v1,C4_s21_matrix,800
+CPP1_s21_matrix,C5_SmartCalc_v1,350
+CPP2_s21_containers,CPP1_s21_matrix,800
+CPP3_SmartCalc_v2,CPP2_s21_containers,800
+CPP4_3DViewer_v2,CPP3_SmartCalc_v2,800
+DO1_Linux,C2_s21_string,200
+DO2_Linux_Network,DO1_Linux,350
+DO3_Simple_Docker,DO2_Linux_Network,200
+DO4_CICD,DO3_Simple_Docker,200

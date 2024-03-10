@@ -1,0 +1,9 @@
+id,peer,recommended_peer
+1,raven,horse
+2,horse,snake
+3,raven,snake
+4,raven,dog
+5,cat,dog
+6,dog,cat
+7,horse,raven
+8,snake,dog
